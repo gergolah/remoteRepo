@@ -22,7 +22,13 @@ namespace GitProba
             }
 
             //adatok száma
+
+            osszesLakos.Count();
+
             //legnagyobb elem helye
+
+
+
             //van budapesti lakos?
             //mindenki 18 feletti?
             //ki lakik a XIII. kerületben?
