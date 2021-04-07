@@ -1,0 +1,7 @@
+C:\Users\MAKAKO\source\repos\GitProba\GitProba\bin\Debug\GitProba.exe.config
+C:\Users\MAKAKO\source\repos\GitProba\GitProba\bin\Debug\GitProba.exe
+C:\Users\MAKAKO\source\repos\GitProba\GitProba\bin\Debug\GitProba.pdb
+C:\Users\MAKAKO\source\repos\GitProba\GitProba\obj\Debug\GitProba.csprojAssemblyReference.cache
+C:\Users\MAKAKO\source\repos\GitProba\GitProba\obj\Debug\GitProba.csproj.CoreCompileInputs.cache
+C:\Users\MAKAKO\source\repos\GitProba\GitProba\obj\Debug\GitProba.exe
+C:\Users\MAKAKO\source\repos\GitProba\GitProba\obj\Debug\GitProba.pdb

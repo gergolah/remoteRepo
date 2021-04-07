@@ -1,0 +1,11 @@
+NÉV,KOR,HELY,KER
+Remek Béla,42,Budapest,XIII.
+Sudár Márton,35,Szeged,
+Laza Kálmán,13,Budapest,XIII.
+Ferenczi Olga,27,Budapest,XI.
+Halmos Hedvig,9,Budapest,II.
+Zoltán Erika,92,Debrecen,
+Kormos Etel,4,Budapest,XX.
+Kiváncsi Gertrúd,70,Eger,
+Lázár Villő,17,Budapest,I.
+Lovassy Róbert,39,Eger,
