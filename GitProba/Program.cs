@@ -38,8 +38,20 @@ namespace GitProba
             string legidosebbLakos = osszesLakos[korMaxIndex].GetNev();
 
             //van budapesti lakos?
+
             //mindenki 18 feletti?
+
             //ki lakik a XIII. kerületben?
+
+            HashSet<string> XIIIkerületiLakosok = new HashSet<string>();
+            for (int i = 0; i < N; i++)
+            {
+                if (osszesLakos[i].GetKerulet() == "XIII.")
+                {
+                    XIIIkerületiLakosok.Add(osszesLakos[i].GetNev());
+                }
+            }
+
             //milyen kerületekben laknak?
             //melyik kerületben hányan laknak?
 

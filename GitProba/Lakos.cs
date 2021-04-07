@@ -23,9 +23,10 @@ namespace GitProba
         }
 
         //getterek
-
-        public int GetKor() { return kor; }
         public string GetNev() { return nev; }
+        public int GetKor() { return kor; }
+        public string GetHely() { return hely; }
+        public string GetKerulet() { return kerulet; }
 
     }
 }
