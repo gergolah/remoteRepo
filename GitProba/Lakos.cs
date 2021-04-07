@@ -21,5 +21,11 @@ namespace GitProba
             this.hely = s[2];
             this.kerulet = s[3];
         }
+
+        //getterek
+
+        public int GetKor() { return kor; }
+        public string GetNev() { return nev; }
+
     }
 }
