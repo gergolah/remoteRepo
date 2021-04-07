@@ -53,6 +53,16 @@ namespace GitProba
             }
 
             //milyen kerületekben laknak?
+
+            HashSet<string> keruletek = new HashSet<string>();
+            foreach (var item in osszesLakos)
+            {
+                if (item.GetKerulet() != "")
+                {
+                    keruletek.Add(item.GetKerulet());
+                }
+            }
+
             //melyik kerületben hányan laknak?
 
             Console.ReadLine();
